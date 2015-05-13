@@ -4,7 +4,7 @@
 ![](https://img.shields.io/apm/dm/colors.svg)
 ![](https://img.shields.io/apm/l/colors.svg)
 
-> a easy way to use [mrmrs](https://github.com/mrmrs)´ awesome [colors]((https://github.com/mrmrs/colors) for the web.
+> a easy way to use [mrmrs](https://github.com/mrmrs)´ awesome [colors](https://github.com/mrmrs/colors) for the web.
 
 <div align="center"><img src="https://cloud.githubusercontent.com/assets/145288/7617818/085e8ada-f9ae-11e4-9971-164333fd22de.png"></div>
 
