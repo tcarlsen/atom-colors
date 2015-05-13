@@ -1,0 +1,17 @@
+{
+  "name": "colors",
+  "main": "./lib/colors",
+  "version": "0.0.0",
+  "description": "a easy way to use mrmrs´ smarter defaults for colors on the web",
+  "activationCommands": {
+    "atom-workspace": "colors:replace"
+  },
+  "repository": "https://github.com/tcarlsen/atom-colors",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "colors.css": "^2.3.0"
+  }
+}
