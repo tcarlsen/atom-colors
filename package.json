@@ -1,7 +1,7 @@
 {
   "name": "colors",
   "main": "./lib/colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a easy way to use mrmrs´ smarter defaults for colors on the web",
   "activationCommands": {
     "atom-workspace": "colors:replace"
