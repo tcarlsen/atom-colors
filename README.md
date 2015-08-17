@@ -10,7 +10,7 @@
 
 ## Usage
 
-All the colors in the above picture is accessible by typing there name with `#` as prefix and hitting `ctrl-alt-c`.
+All the colors in the above picture is accessible by typing their name with `#` as prefix and hitting `ctrl-alt-c`.
 
 `#navy`, `#blue` etc.
 
